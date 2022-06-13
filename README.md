@@ -5,7 +5,7 @@ Clone des commandes du AmigaDOS écrit en Pascal.
 
 <h2>Liste des fichiers</h2>
 
-Voici la liste des différents fichiers proposés dans AppleDOS-0 :
+Voici la liste des différents fichiers proposés dans AmigaDOS-0 :
 
 <table>
 		<tr>
