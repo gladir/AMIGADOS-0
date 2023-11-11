@@ -1,7 +1,14 @@
 # AMIGADOS-0
 Clone des commandes du AmigaDOS écrit en Pascal.
 
+Aperçu en mode texte :
+
 ![image](https://user-images.githubusercontent.com/11842176/160870008-c9f4ee94-e44f-435e-995e-d6e2bb6140d1.png)
+
+Aperçu en mode graphique (DOS ou Windows), utiliser l'option /GUI : 
+
+![image](https://github.com/gladir/AMIGADOS-0/assets/11842176/628a28f7-2380-4f53-852e-1b252ea4685f)
+
 
 <h2>Liste des fichiers</h2>
 
