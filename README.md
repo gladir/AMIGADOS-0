@@ -28,6 +28,10 @@ Voici la liste des différents fichiers proposés dans AmigaDOS-0 :
 			<td>Cette commande permet de demander des informations sur l'état du système d'exploitation.</td>
 		</tr>
 		<tr>
+			<td><b>MAKEDIR.PAS</b></td>
+			<td>Cette commande permet de créer un répertoire.</td>
+		</tr>
+		<tr>
 			<td><b>PROTECT.PAS</b></td>
    			<td>Cette commande permet de fixer les protections de mode d'accès d'un fichier.</td>
 		</tr>
