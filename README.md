@@ -27,6 +27,10 @@ Voici la liste des différents fichiers proposés dans AmigaDOS-0 :
 			<td><b>DELETE.PAS</b></td>
 			<td>Cette commande permet d'effectuer la suppression de fichier sur un unité de disque.</td>
 		</tr>
+		<tr>
+			<td><b>DIR.PAS</b></td>
+			<td>Cette commande permet d'afficher le contenu d'un répertoire.</td>
+		</tr>
 	       <tr>
 			<td><b>INFO.PAS</b></td>
 			<td>Cette commande permet de demander des informations sur l'état du système d'exploitation.</td>
