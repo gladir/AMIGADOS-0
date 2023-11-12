@@ -23,6 +23,10 @@ Voici la liste des différents fichiers proposés dans AmigaDOS-0 :
 			<td><b>AMIGADOS.PAS</b></td>
 			<td>Cette commande permet de lancer l'interpréteur de commande AmigaShell/AmigaDOS.</td>
 		</tr>
+		<tr>
+			<td><b>DELETE.PAS</b></td>
+			<td>Cette commande permet d'effectuer la suppression de fichier sur un unité de disque.</td>
+		</tr>
 	       <tr>
 			<td><b>INFO.PAS</b></td>
 			<td>Cette commande permet de demander des informations sur l'état du système d'exploitation.</td>
