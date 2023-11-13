@@ -31,6 +31,10 @@ Voici la liste des différents fichiers proposés dans AmigaDOS-0 :
 			<td><b>DIR.PAS</b></td>
 			<td>Cette commande permet d'afficher le contenu d'un répertoire.</td>
 		</tr>
+		<tr>
+			<td><b>DISKCHANGE.PAS</b></td>
+			<td>Cette commande permet de changer l'unité de disque courant.</td>
+		</tr>
 	       <tr>
 			<td><b>INFO.PAS</b></td>
 			<td>Cette commande permet de demander des informations sur l'état du système d'exploitation.</td>
